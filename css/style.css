@@ -17,3 +17,8 @@ h1 {
   text-align: center;
   color: red;
 }
+
+p {
+  font-size: 25px;
+  color: green;
+}
